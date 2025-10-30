@@ -20,10 +20,12 @@ Over 10 years in development — 7+ years in **React Native & TypeScript** — a
 ## 🚀 Highlight Projects
 | Project | Description | Stack |
 |----------|--------------|-------|
-| **[ORKAI](https://orkai.io)** | AI SaaS analyzing 500 K + YouTube & Instagram comments using Gemini + Claude | Next.js 15 · Supabase (Postgres/RLS) · Redis · BullMQ · Cloudflare |
-| **Rhym App** | P2P marketplace for musicians (C2C sales + wallet + shipping automation) | React Native · Next.js · . NET · Aras API |
+| **[ORKAI](https://orkai.io)** | AI SaaS analyzing 500 K+ YouTube & Instagram comments using Gemini + Claude | Next.js 15 · Supabase (Postgres/RLS) · Redis · BullMQ · Cloudflare |
+| **Rhym App** | P2P marketplace for musicians (C2C sales + wallet + shipping automation) | React Native · Next.js · .NET · Aras API |
 | **JosephsBrain CLI** | AI Memory & Task System integrating Gemini API with PostgreSQL | Node.js · Commander.js · Electron · Gemini API |
-
+| **Boyner** | Internal mobile solution for retail operations and product tracking | React Native · Redux Toolkit · REST API · Firebase |
+| **UcuzYolu** | Travel & booking platform with real-time flight, hotel, and bus integrations | React Native · RTK Query · Supabase · TypeScript |
+| **40Ayak** | Logistics & container tracking system built for port-based operations | React Native · Node.js · PostgreSQL · Socket.IO |
 ---
 
 ## 💻 Tech Stack
