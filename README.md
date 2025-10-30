@@ -7,10 +7,7 @@
 I’m a **software engineer** focused on building **AI-driven, scalable, and meaningful systems**.  
 With 10+ years in development and 7+ years of professional React Native experience, I design products that connect simplicity with performance.  
 I enjoy solving complex problems through clean architecture and thoughtful automation.
-
-🚀 **Currently working on**
-- 🧩 **ORKAI (orkai.io)** → AI SaaS analyzing 500K+ YouTube & Instagram comments using Gemini, Claude, and Supabase  
-- 🎸 **Rhym App** → Peer-to-peer music marketplace built with React Native & Next.js  
+  
 - 🧠 **JosephsBrain CLI** → AI memory & task management system integrating Gemini + PostgreSQL  
 
 💡 I believe **every system should think**, not just run.
