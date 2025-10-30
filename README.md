@@ -1,64 +1,67 @@
 # 👋 Hey, I'm Yusuf Terzioğlu  
-**Problem Resolver • System Thinker • Software Architect**
+**AI-Driven Software Architect • System Thinker • Product Builder**
 
 ---
 
 ## 🧭 About Me
-I’m a **software engineer** focused on building **AI-driven, scalable, and meaningful systems**.  
-With 10+ years in development and 7+ years of professional React Native experience, I design products that connect simplicity with performance.  
-I enjoy solving complex problems through clean architecture and thoughtful automation.
-  
-- 🧠 **JosephsBrain CLI** → AI memory & task management system integrating Gemini + PostgreSQL  
+I build **AI-powered systems** that transform raw data into structured intelligence.  
+Over 10 years in development — 7+ years in **React Native & TypeScript** — and now focused on **LLM-driven architectures**, **RAG pipelines**, and **autonomous agents**.
 
-💡 I believe **every system should think**, not just run.
+🧠 I believe software should **think**, not just run.
+
+**What I Do**
+- ⚙️ Design scalable SaaS architectures (Next.js 15 + Supabase + PostgreSQL + Redis)  
+- 📱 Build production-grade mobile apps (React Native 0.73 +, RTK Query, Expo SDK 51)  
+- 🧩 Develop context-aware LLM agents (Gemini 2.5 Pro, Claude 4 Sonnet, Vertex AI)  
+- 🧱 Automate infra with BullMQ workers, Docker, and Cloudflare edge routing  
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-terzio%C4%9Flu-292222186/)
+## 🚀 Highlight Projects
+| Project | Description | Stack |
+|----------|--------------|-------|
+| **[ORKAI](https://orkai.io)** | AI SaaS analyzing 500 K + YouTube & Instagram comments using Gemini + Claude | Next.js 15 · Supabase (Postgres/RLS) · Redis · BullMQ · Cloudflare |
+| **Rhym App** | P2P marketplace for musicians (C2C sales + wallet + shipping automation) | React Native · Next.js · . NET · Aras API |
+| **JosephsBrain CLI** | AI Memory & Task System integrating Gemini API with PostgreSQL | Node.js · Commander.js · Electron · Gemini API |
 
 ---
 
 ## 💻 Tech Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-306998?style=for-the-badge)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis)
 ![BullMQ](https://img.shields.io/badge/BullMQ-E02F2F?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint)
-![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
+![Zod](https://img.shields.io/badge/Zod-306998?style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux)
+![RTK Query](https://img.shields.io/badge/RTK_Query-FF4154?style=for-the-badge)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo)
+![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
+![Claude API](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira)
+![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube)
 
 ---
+## 🧠 Architecture Mindset
+```yaml
+Philosophy:
+  - Systems should think, not just run
+  - Simplicity scales better than complexity
+  - Automation replaces repetition — not reasoning
+  - Every function, every table, every agent must serve a purpose
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=terzigolu&theme=tokyonight&hide_border=false&count_private=true&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=terzigolu&theme=tokyonight&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=terzigolu&theme=tokyonight&hide_border=false&layout=compact)
+Principles:
+  - Deterministic > Random
+  - Observable > Implicit
+  - Declarative > Procedural
+  - Minimal, modular, measurable
 
----
-
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=terzigolu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-### ✍️ Dev Quote
-> “Simplicity is the final achievement.” — Frederic Chopin  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=terzigolu&icon=0&color=0)](https://visitcount.itsvg.in)
+Current Focus:
+  - AI-driven SaaS architectures (Next.js 15 + Supabase + RLS)
+  - Context engines, memory layers & agent communication
+  - Queue orchestration, fault tolerance, structured logging
+  - Cost-aware LLM orchestration with Gemini & Claude
