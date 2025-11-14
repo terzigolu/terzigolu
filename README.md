@@ -3,58 +3,79 @@
 
 ---
 
-## 🧭 About Me
-I build **AI-powered systems** that transform raw data into structured intelligence.  
-Over 10 years in development — 7+ years in **React Native & TypeScript** — and now focused on **LLM-driven architectures**, **RAG pipelines**, and **autonomous agents**.
+## 🧭 About Me  
+I build **LLM-powered systems** that convert raw, chaotic data into structured intelligence.  
+10+ years of engineering, 7+ years in **React Native & TypeScript**, now focused on:
 
-🧠 I believe software should **think**, not just run.
+- LLM orchestration & autonomous agents  
+- Memory-based reasoning systems  
+- RAG pipelines (hybrid retrieval + cost control)  
+- Scalable AI SaaS architectures (Next.js 15 + Supabase + RLS)
 
-**What I Do**
-- ⚙️ Design scalable SaaS architectures (Next.js 15 + Supabase + PostgreSQL + Redis)  
-- 📱 Build production-grade mobile apps (React Native 0.73 +, RTK Query, Expo SDK 51)  
-- 🧩 Develop context-aware LLM agents (Gemini 2.5 Pro, Claude 4 Sonnet, Vertex AI)  
-- 🧱 Automate infra with BullMQ workers, Docker, and Cloudflare edge routing  
+🧠 Philosophy: **Software shouldn’t just run — it should think.**
+
+---
+
+## 🧰 My Real Toolchain (Daily Workflow)
+
+### **AI Assistants & Code Models**
+Claude Code · Roo Code · Cline · Copilot · Qwen Coder · Amazon Q · OpenAI Models  
+Windsurf · Cursor · Kilo Code · Kiro Code · Opencode
+
+### **Dev Environment**
+Warp Terminal · Zsh automation · Local AI proxies · MCP setups  
+CLI tools · agent debugging utilities
+
+### **Agent Systems**
+Memory-augmented agents · Context engines  
+Multimodal routing · Autonomous workers  
+LLM-driven pipelines with deterministic reasoning
 
 ---
 
 ## 🚀 Highlight Projects
+
 | Project | Description | Stack |
-|----------|--------------|-------|
-| **[ORKAI](https://orkai.io)** | AI SaaS analyzing 500 K+ YouTube & Instagram comments using Gemini + Claude | Next.js 15 · Supabase (Postgres/RLS) · Redis · BullMQ · Cloudflare |
-| **Rhym App** | P2P marketplace for musicians (C2C sales + wallet + shipping automation) | React Native · Next.js · .NET · Aras API |
-| **JosephsBrain CLI** | AI Memory & Task System integrating Gemini API with PostgreSQL | Node.js · Commander.js · Electron · Gemini API |
-| **Boyner** | Internal mobile solution for retail operations and product tracking | React Native · Redux Toolkit · REST API · Firebase |
-| **UcuzYolu** | Travel & booking platform with real-time flight, hotel, and bus integrations | React Native · RTK Query · Supabase · TypeScript |
-| **40Ayak** | Logistics & container tracking system built for port-based operations | React Native · Node.js · PostgreSQL · Socket.IO |
+|--------|-------------|-------|
+| **ORKAI** | AI SaaS analyzing 500k+ YouTube & Instagram comments with hybrid caching, agents & brand insights | Next.js 15 · Supabase/Postgres · RLS · Redis · BullMQ · Gemini · Claude |
+| **JosephsBrain CLI** | LLM-powered memory + task engine linking content, context & reasoning across a personal knowledge graph | Node.js · Electron · Commander.js · PostgreSQL · Gemini |
+| **Ming Mobile App** | Internal communication & community platform for organizations (chat, announcements, media sharing) | React Native · Firebase · Node.js |
+| **Rhym** | P2P music-instrument marketplace (wallet, escrow, shipping automation) | React Native · Next.js · .NET |
+| **UcuzYolu** | Travel platform with real-time flight/hotel/bus integrations | React Native · RTK Query · Supabase |
+| **40Ayak** | Logistics & container tracking for port operations | React Native · PostgreSQL · Socket.IO |
+| **IoT Smart Home Systems** | Custom automation modules, sensors, mobile dashboards, remote control systems | Embedded C · GSM/LoRa modules · React Native |
+| **Industrial GSM Meter Readers** | Remote utility meter reading devices using GSM modules, PCB firmware & cloud data pipelines | Embedded C · PCB Design · MQTT/HTTP |
+| **PCB Electronics & Field Work** | Designed and assembled PCBs, soldering, diagnostics, field technician operations | Hardware design · Electronics · Soldering |
+
 ---
 
 ## 💻 Tech Stack
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
-![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis)
-![BullMQ](https://img.shields.io/badge/BullMQ-E02F2F?style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker)
-![Zod](https://img.shields.io/badge/Zod-306998?style=for-the-badge)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux)
-![RTK Query](https://img.shields.io/badge/RTK_Query-FF4154?style=for-the-badge)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo)
-![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
-![Claude API](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira)
-![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube)
+
+### **Core Engineering**
+TypeScript · React Native · Next.js 15 · Supabase · PostgreSQL · Redis · Docker  
+BullMQ · Zod · Zustand · RTK Query · Expo · Cloudflare · Firebase
+
+### **AI Development**
+Gemini API · Claude API · Vertex AI  
+RAG pipelines · Vector search · Hybrid retrieval  
+Prompt engineering · Agent memory layers  
+LLM orchestration · Multi-agent communication  
+Fault-tolerant worker design
+
+### **IoT & Electronics**
+Embedded C · PCB Design · GSM Modules (Quectel, SIM800)  
+Smart home automation · Sensor networks  
+Soldering, multimeter diagnostics, technician-level electronics
 
 ---
+
 ## 🧠 Architecture Mindset
 ```yaml
 Philosophy:
-  - Systems should think, not just run
-  - Simplicity scales better than complexity
-  - Automation replaces repetition — not reasoning
-  - Every function, every table, every agent must serve a purpose
+  - Systems should think, not just execute
+  - Simplicity beats complexity at scale
+  - Automation removes repetition — not reasoning
+  - Every module must have purpose, clarity, and observability
 
 Principles:
   - Deterministic > Random
@@ -63,7 +84,8 @@ Principles:
   - Minimal, modular, measurable
 
 Current Focus:
-  - AI-driven SaaS architectures (Next.js 15 + Supabase + RLS)
-  - Context engines, memory layers & agent communication
-  - Queue orchestration, fault tolerance, structured logging
-  - Cost-aware LLM orchestration with Gemini & Claude
+  - AI-driven SaaS (Next.js 15 + Supabase + RLS)
+  - LLM orchestration & agent memory layers
+  - Queue orchestration & fault-tolerant workers
+  - Cost-optimized reasoning pipelines (Gemini + Claude)
+  - IoT cloud integrations & device intelligence
