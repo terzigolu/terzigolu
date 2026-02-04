@@ -37,8 +37,8 @@ LLM-driven pipelines with deterministic reasoning
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **ORKAI** | AI SaaS analyzing 500k+ YouTube & Instagram comments with hybrid caching, agents & brand insights | Next.js 15 · Supabase/Postgres · RLS · Redis · BullMQ · Gemini · Claude |
-| **JosephsBrain CLI** | LLM-powered memory + task engine linking content, context & reasoning across a personal knowledge graph | Node.js · Electron · Commander.js · PostgreSQL · Gemini |
+| **ORKAI** | https://orkai.io AI SaaS analyzing 500k+ YouTube & Instagram comments with hybrid caching, agents & brand insights | Next.js 15 · Supabase/Postgres · RLS · Redis · BullMQ · Gemini · Claude |
+| **Ramorie** | https://ramorie.com LLM-powered memory + task engine linking content, context & reasoning across a personal knowledge graph | Node.js · Electron · Commander.js · PostgreSQL · Gemini |
 | **Ming Mobile App** | Internal communication & community platform for organizations (chat, announcements, media sharing) | React Native · Firebase · Node.js |
 | **Rhym** | P2P music-instrument marketplace (wallet, escrow, shipping automation) | React Native · Next.js · .NET |
 | **UcuzYolu** | Travel platform with real-time flight/hotel/bus integrations | React Native · RTK Query · Supabase |
